@@ -1,8 +1,15 @@
 ### Hello! My name is Jesus Casanova 👋
+#### Full-Stack Web Developer
+
+I am a professional software development for more than 6 years.
+
+My focus is to create useful applications, this has led me to create applications for small businesses. From school applications to accounting and administrative applications.
+
+I am passionate about software development, a fan of video games and a lover of geek culture
 
 
 
-####Skills
+### Skills
 
 [![React](https://img.shields.io/badge/React-999999?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
